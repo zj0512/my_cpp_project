@@ -3,6 +3,7 @@
 int main() {
     int a = 0;
     int b = 1;
+    int c = 2;
 
     for (int i = 0; i < 10; i ++) {
         b = b + a + b;
